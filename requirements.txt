@@ -1,0 +1,4 @@
+# local demo + tests (what CI installs)
+pandas>=2.0
+numpy>=1.26
+pytest>=8.0

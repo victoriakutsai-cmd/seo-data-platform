@@ -1,0 +1,17 @@
+site_id,brand,vertical,geo,market,currency,domain,project,launch_date,fees_rate,avg_cpc_eur,ga4_property_id
+S001,Alpha,Travel & booking,UK,United Kingdom,GBP,alpha-uk.example,Portfolio A,2023-07-01,0.2,1.03,400000001
+S002,Alpha,Travel & booking,DE,Germany,EUR,alpha-de.example,Portfolio A,2023-07-01,0.17,0.9,400000002
+S003,Alpha,Travel & booking,NL,Netherlands,EUR,alpha-nl.example,Portfolio A,2023-07-01,0.18,1.07,400000003
+S004,Alpha,Travel & booking,ES,Spain,EUR,alpha-es.example,Portfolio A,2023-07-01,0.18,1.0,400000004
+S005,Bravo,Online education,UK,United Kingdom,GBP,bravo-uk.example,Portfolio A,2023-07-01,0.2,1.18,400000005
+S006,Bravo,Online education,PL,Poland,PLN,bravo-pl.example,Portfolio A,2023-07-01,0.19,1.73,400000006
+S007,Bravo,Online education,CA,Canada,CAD,bravo-ca.example,Portfolio A,2023-07-01,0.12,1.6,400000007
+S008,Charlie,Fintech & payments,UK,United Kingdom,GBP,charlie-uk.example,Portfolio A,2023-07-01,0.2,3.23,400000008
+S009,Charlie,Fintech & payments,NL,Netherlands,EUR,charlie-nl.example,Portfolio A,2023-07-01,0.18,2.4,400000009
+S010,Charlie,Fintech & payments,FR,France,EUR,charlie-fr.example,Portfolio A,2023-07-01,0.2,2.81,400000010
+S011,Delta,E-commerce: home & living,DE,Germany,EUR,delta-de.example,Portfolio A,2023-07-01,0.17,0.68,400000011
+S012,Delta,E-commerce: home & living,PL,Poland,PLN,delta-pl.example,Portfolio A,2023-07-01,0.19,0.85,400000012
+S013,Delta,E-commerce: home & living,NL,Netherlands,EUR,delta-nl.example,Portfolio A,2023-07-01,0.18,0.76,400000013
+S014,Echo,Streaming subscription,UK,United Kingdom,GBP,echo-uk.example,Portfolio A,2023-07-01,0.2,1.29,400000014
+S015,Echo,Streaming subscription,IE,Ireland,EUR,echo-ie.example,Portfolio A,2023-07-01,0.18,1.1,400000015
+S016,Echo,Streaming subscription,CA,Canada,CAD,echo-ca.example,Portfolio A,2023-07-01,0.12,0.99,400000016

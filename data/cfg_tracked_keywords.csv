@@ -1,0 +1,145 @@
+site_id,query,keyword_group
+S001,cheap flights,priority
+S001,hotel deals,priority
+S001,last minute holidays,priority
+S001,city breaks,priority
+S001,travel insurance,priority
+S001,car rental,priority
+S001,alpha,brand
+S001,alpha app,brand
+S001,alpha united kingdom,brand
+S002,cheap flights,priority
+S002,hotel deals,priority
+S002,last minute holidays,priority
+S002,city breaks,priority
+S002,travel insurance,priority
+S002,car rental,priority
+S002,alpha,brand
+S002,alpha app,brand
+S002,alpha germany,brand
+S003,cheap flights,priority
+S003,hotel deals,priority
+S003,last minute holidays,priority
+S003,city breaks,priority
+S003,travel insurance,priority
+S003,car rental,priority
+S003,alpha,brand
+S003,alpha app,brand
+S003,alpha netherlands,brand
+S004,cheap flights,priority
+S004,hotel deals,priority
+S004,last minute holidays,priority
+S004,city breaks,priority
+S004,travel insurance,priority
+S004,car rental,priority
+S004,alpha,brand
+S004,alpha app,brand
+S004,alpha spain,brand
+S005,online courses,priority
+S005,learn english online,priority
+S005,coding bootcamp,priority
+S005,online certificate,priority
+S005,language app,priority
+S005,exam preparation,priority
+S005,bravo,brand
+S005,bravo app,brand
+S005,bravo united kingdom,brand
+S006,online courses,priority
+S006,learn english online,priority
+S006,coding bootcamp,priority
+S006,online certificate,priority
+S006,language app,priority
+S006,exam preparation,priority
+S006,bravo,brand
+S006,bravo app,brand
+S006,bravo poland,brand
+S007,online courses,priority
+S007,learn english online,priority
+S007,coding bootcamp,priority
+S007,online certificate,priority
+S007,language app,priority
+S007,exam preparation,priority
+S007,bravo,brand
+S007,bravo app,brand
+S007,bravo canada,brand
+S008,money transfer,priority
+S008,currency exchange,priority
+S008,business account,priority
+S008,virtual card,priority
+S008,send money abroad,priority
+S008,payment app,priority
+S008,charlie,brand
+S008,charlie app,brand
+S008,charlie united kingdom,brand
+S009,money transfer,priority
+S009,currency exchange,priority
+S009,business account,priority
+S009,virtual card,priority
+S009,send money abroad,priority
+S009,payment app,priority
+S009,charlie,brand
+S009,charlie app,brand
+S009,charlie netherlands,brand
+S010,money transfer,priority
+S010,currency exchange,priority
+S010,business account,priority
+S010,virtual card,priority
+S010,send money abroad,priority
+S010,payment app,priority
+S010,charlie,brand
+S010,charlie app,brand
+S010,charlie france,brand
+S011,sofa,priority
+S011,garden furniture,priority
+S011,kitchen storage,priority
+S011,led lighting,priority
+S011,home decor,priority
+S011,mattress,priority
+S011,delta,brand
+S011,delta app,brand
+S011,delta germany,brand
+S012,sofa,priority
+S012,garden furniture,priority
+S012,kitchen storage,priority
+S012,led lighting,priority
+S012,home decor,priority
+S012,mattress,priority
+S012,delta,brand
+S012,delta app,brand
+S012,delta poland,brand
+S013,sofa,priority
+S013,garden furniture,priority
+S013,kitchen storage,priority
+S013,led lighting,priority
+S013,home decor,priority
+S013,mattress,priority
+S013,delta,brand
+S013,delta app,brand
+S013,delta netherlands,brand
+S014,streaming service,priority
+S014,watch movies online,priority
+S014,tv series online,priority
+S014,streaming app,priority
+S014,family plan,priority
+S014,free trial streaming,priority
+S014,echo,brand
+S014,echo app,brand
+S014,echo united kingdom,brand
+S015,streaming service,priority
+S015,watch movies online,priority
+S015,tv series online,priority
+S015,streaming app,priority
+S015,family plan,priority
+S015,free trial streaming,priority
+S015,echo,brand
+S015,echo app,brand
+S015,echo ireland,brand
+S016,streaming service,priority
+S016,watch movies online,priority
+S016,tv series online,priority
+S016,streaming app,priority
+S016,family plan,priority
+S016,free trial streaming,priority
+S016,echo,brand
+S016,echo app,brand
+S016,echo canada,brand
